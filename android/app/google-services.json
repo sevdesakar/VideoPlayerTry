@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090437830453",
+    "project_id": "try-video-saat",
+    "storage_bucket": "try-video-saat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090437830453:android:034f0c34b0eb1a33619e7c",
+        "android_client_info": {
+          "package_name": "com.example.new_try_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090437830453-bm7gcjep2hjvcbncp5pprhjdvifuqdlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7ajJHit7T7wLqRom4t4mh3MmQqorkUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090437830453-bm7gcjep2hjvcbncp5pprhjdvifuqdlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
